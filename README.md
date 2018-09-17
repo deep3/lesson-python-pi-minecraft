@@ -17,9 +17,9 @@ This guide is to detail the files included. Instructions for regular use can be 
 
 # Files
 
-- **Worksheet.pdf** : The step by step lesson guide to learn python, the Minecraft API, and how to build a house.
+- **Python and Minecraft worksheet.pdf** : The step by step lesson guide to learn python, the Minecraft API, and how to build a house.
 
-- **API Guide** : A printable version of the Minecraft Pi API. Used to support the worksheet see all the available commands and data values.
+- **Minecraft Python API.pdf** : A printable version of the Minecraft Pi API. Used to support the worksheet see all the available commands and data values.
 
 - **SETUP.sh** : This is the quick start script. This is to be used by those who want to run a class and follow the lesson steps directly.  It will;
 	- create a folder to do your code in
