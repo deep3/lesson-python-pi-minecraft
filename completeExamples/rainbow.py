@@ -1,3 +1,4 @@
+#Adapted from https://gist.github.com/richardbwest/416c8fd124ead2b9d2c10f1af94abc4c#file-minecraft-rainbow-py
 import mcpi.minecraft as minecraft
 import mcpi.block as block
 from math import *
